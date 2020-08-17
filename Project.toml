@@ -1,0 +1,8 @@
+name = "ThesisTools"
+uuid = "c2d32e4c-7064-491d-a5e3-8549892f5912"
+authors = ["Maxime Mouchet <max@maxmouchet.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
