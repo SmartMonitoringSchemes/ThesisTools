@@ -1,7 +1,6 @@
 # ThesisTools
 
-[![CI](https://github.com/SmartMonitoringSchemes/ThesisTools/workflows/CI/badge.svg)](https://github.com/SmartMonitoringSchemes/ThesisTools/actions?query=workflow%3ACI)
-[![CompatHelper](https://github.com/SmartMonitoringSchemes/ThesisTools/workflows/CompatHelper/badge.svg)](https://github.com/SmartMonitoringSchemes/ThesisTools/actions?query=workflow%3ACompatHelper)
-[![codecov](https://codecov.io/gh/SmartMonitoringSchemes/ThesisTools/branch/master/graph/badge.svg?token=XApaRRevin)](https://codecov.io/gh/SmartMonitoringSchemes/ThesisTools)
+[![Coverage](https://img.shields.io/codecov/c/github/SmartMonitoringSchemes/ThesisTools?logo=codecov&logoColor=white)](https://app.codecov.io/gh/SmartMonitoringSchemes/ThesisTools)
+[![Tests](https://img.shields.io/github/workflow/status/SmartMonitoringSchemes/ThesisTools/Tests?logo=github&label=tests)](https://github.com/SmartMonitoringSchemes/ThesisTools/actions/workflows/tests.yml)
 
 Common code for generating plots and figures.
